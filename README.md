@@ -1,4 +1,4 @@
-## Coming Soon
+## Coming Soo
 
 Coming soon is hugo theme which can be used before publishing your actual site to build hype or to just have something on your domain while you develop your site. 
 
